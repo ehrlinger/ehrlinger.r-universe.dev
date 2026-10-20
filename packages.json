@@ -1,0 +1,16 @@
+[
+  {"package": "hvtiR",           "url": "https://github.com/ehrlinger/hvtiR"},
+  {"package": "hvtiRutilities",  "url": "https://github.com/ehrlinger/hvtiRutilities"},
+  {"package": "hvtiRdatabuild",  "url": "https://github.com/ehrlinger/hvtiRdatabuild"},
+  {"package": "hvtiRtables",     "url": "https://github.com/ehrlinger/hvtiRtables"},
+  {"package": "hvtiRtemplates",  "url": "https://github.com/ehrlinger/hvtiRtemplates"},
+  {"package": "hvtiPlotR",       "url": "https://github.com/ehrlinger/hvtiPlotR"},
+  {"package": "hvtiRlifetables", "url": "https://github.com/ehrlinger/hvtiRlifetables"},
+  {"package": "hvtiRbootstrap",  "url": "https://github.com/ehrlinger/hvtiRbootstrap"},
+  {"package": "hvtiRpropensity", "url": "https://github.com/ehrlinger/hvtiRpropensity"},
+  {"package": "hvtiRimputation", "url": "https://github.com/ehrlinger/hvtiRimputation"},
+  {"package": "ggBoostedTrees",  "url": "https://github.com/ehrlinger/ggBoostedTrees"},
+  {"package": "TemporalHazard",  "url": "https://github.com/ehrlinger/temporal_hazard"},
+  {"package": "ggRandomForests", "url": "https://github.com/ehrlinger/ggRandomForests"},
+  {"package": "boostmtree",      "url": "https://github.com/ehrlinger/boostmtree_src", "subdir": "boostmtree", "branch": "v2.0.7-ccf"}
+]
